@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**arivvid27/arivvid27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### The General me :
+I am just a minor python programmer, making some stuff. I mostly code in repl.it or jupyter notebook. You can find me on repl [here](https://repl.it/@arivvid27)
 
-Here are some ideas to get you started:
+### The Weekend me :
+I love to play Rocket League in the weekends on my xbox. my gamertag is 'Apollo11548"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### The Curious me? :
+When im curious, I take apart old devices and play with electronics.
+
+### The Bored me :
+I usually just read a book.
+
+### The Furious me:
+# *I DONT HAVE A SINGLE BIT OF INSPIRATION OF WHAT I CAN CODE!!!!*
+
+### The Ending me:
+So, yeah. thats pretty much me.
