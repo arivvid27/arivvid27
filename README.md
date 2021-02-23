@@ -17,3 +17,10 @@ I usually just read a book.
 
 ### The Ending me:
 So, yeah. thats pretty much me.
+
+![](https://komarev.com/ghpvc/?username=arivvid27&style=flat-square)
+
+
+![arivvid27's GitHub stats](https://github-readme-stats.vercel.app/api?username=arivvid27&show_icons=true&theme=cobalt)
+
+
