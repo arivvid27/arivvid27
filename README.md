@@ -7,7 +7,7 @@ I am just a minor python programmer, making some stuff. I mostly code in repl.it
 I love to play Rocket League in the weekends on my xbox. my gamertag is 'Apollo11548"
 
 ### The Curious me? :
-When im curious, I take apart old devices and play with electronics.
+When im curious, I sometimes take apart old devices and play with electronics. Most of the time, I just google stuff up.
 
 ### The Bored me :
 I usually just read a book.
