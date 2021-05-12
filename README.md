@@ -4,7 +4,7 @@
 I am just a minor python programmer, making some stuff. I mostly code in repl.it or jupyter notebook. You can find me on repl [here](https://repl.it/@arivvid27)
 
 ### The Weekend me :
-I love to play Rocket League in the weekends on my xbox. my gamertag is 'Apollo11548"
+I love to play Rocket League and Destiny 2 : Beyond Light in the weekends on my Xbox. my gamertag is 'Apollo11548"
 
 ### The Curious me? :
 When im curious, I sometimes take apart old devices and play with electronics. Most of the time, I just google stuff up.
