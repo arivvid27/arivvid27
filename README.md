@@ -18,18 +18,13 @@ I usually just read a book.
 ### The Ending me:
 So, yeah. thats pretty much me.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
 ![](https://komarev.com/ghpvc/?username=arivvid27&style=flat-square)
 
 
 ![arivvid27's GitHub stats](https://github-readme-stats.vercel.app/api?username=arivvid27&show_icons=true&theme=cobalt)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arivvid27&langs_count=8)
+
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arivvid27)
 
 
