@@ -22,7 +22,7 @@ So, yeah. thats pretty much me.
 
 
 ![arivvid27's GitHub stats](https://github-readme-stats.vercel.app/api?username=arivvid27&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arivvid27&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arivvid27&hide=javascript,html&langs_count=8)
 
 
 
