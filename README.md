@@ -25,7 +25,7 @@ So, yeah. thats pretty much me.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arivvid27&langs_count=8)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arivvid27)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arivvid27)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
