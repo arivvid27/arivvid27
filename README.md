@@ -27,5 +27,5 @@ So, yeah. thats pretty much me.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arivvid27)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<a href="https://app.daily.dev/arivvid27"><img src="https://api.daily.dev/devcards/8d86e906cd134317b4524927efb99522.png?r=9yo" width="400" alt="Videsh Arivazhagan's Dev Card"/></a>
 
