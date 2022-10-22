@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### The General me :
-I am just a minor python programmer, making some stuff. I mostly code in repl.it or jupyter notebook. You can find me on repl [here](https://repl.it/@arivvid27)
+I am just a minor python programmer and a sprouting React Web Dev and Pen Tester 🌱, making some stuff. I mostly code in repl.it or jupyter notebook. You can find me on repl [here](https://repl.it/@arivvid27)
 
 ### The Weekend me :
 I love to play Rocket League, Destiny 2 : Beyond Light and Fortnite in the weekends on my Xbox. my gamertag is 'Apollo11548"
