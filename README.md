@@ -13,7 +13,7 @@ When im curious, I sometimes take apart old devices and play with electronics. M
 I usually just read a book.
 
 ### The Furious me:
-# *I DONT HAVE A SINGLE BIT OF INSPIRATION OF WHAT I CAN CODE!!!!*
+# *I DONT KNOW WHAT TO CODE!!!!*
 
 ### The Ending me:
 So, yeah. thats pretty much me.
