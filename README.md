@@ -5,7 +5,7 @@
 
 [<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arivvid27" alt="arivvid27" /></a> </p>](https://github-profile-trophy.vercel.app/?username=arivvid27&theme=nord)
 
-- 🔭 I’m currently working on **A AI empowered database that will track the behaviors of kids who have special needs.**
+- 🔭 I’m currently working on **an AI empowered database that will track the behaviors of kids who have special needs.**
 
 - 🌱 I’m currently learning **Java**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arivvid27@gmail.com**
 
-- ⚡ Fun fact **I actually am trying to get a job. At the age of 15...**
+- ⚡ Fun fact **I am only 15 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
