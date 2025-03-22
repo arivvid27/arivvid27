@@ -34,7 +34,7 @@
 
 - Played *every* Halo game. 🎖️
 - Knows every detail of the lore. 📖
-- Favorite Spartans: **John-117, Linda-048, Edward Malcolm Buck** 💀
+- Favorite Spartans: **John-117, Linda-058, Spartan Edward Malcolm Buck** 💀
 - Entire PC setup is **Halo-themed**. 🖥️⚡
 
 ---
