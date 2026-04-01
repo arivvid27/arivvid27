@@ -2,7 +2,7 @@
 
 ![Halo Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNmeXhsbnZpbTgwNWV2MXN2Zndhdnk5eDFvajU5dGJianAzbzllbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lB4gMQYzc698mjsX0M/giphy.gif)
 
-🚀 **16-year-old High School Sophomore | Cybersecurity Enthusiast | Full-Stack Developer | Halo Lore Expert** 🚀
+🚀 **18-year-old Freshman UCB | Cybersecurity Enthusiast | Full-Stack Developer | Halo Lore Expert** 🚀
 
 ---
 
